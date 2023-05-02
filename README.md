@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 
 👨‍💻 I'm looking for opportunities to collaborate with other developers and contribute to open source projects. Feel free to check out my GitHub profile to see some of my projects.
 
-📫 You can reach me via [Your preferred contact method]. Let's build some great web applications together!
+📫 You can reach me via linkdin link in profile description. Let's build some great web applications together!
