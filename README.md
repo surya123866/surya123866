@@ -22,6 +22,8 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surya123866" alt="surya123866" /></a> </p>
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/surya123866)  
+
 - 👨‍💻 All of my projects are available at [https://github.com/surya123866](https://github.com/surya123866)
 
 
