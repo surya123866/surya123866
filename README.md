@@ -18,9 +18,10 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=surya123866&label=Profile%20views&color=0e75b6&style=flat" alt="surya123866" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=surya123866&label=Profile%20views&color=0e75b6&style=flat" alt="surya123866" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=surya123866&theme=onedark)](https://github.com/surya123866/github-profile-trophy)
+<div align="cente">
+[![trophy](https://github-profile-trophy.vercel.app/?username=surya123866&theme=onedark)](https://github.com/surya123866/github-profile-trophy)</div>
 
 - 👨‍💻 All of my projects are available at [https://github.com/surya123866](https://github.com/surya123866)
 
