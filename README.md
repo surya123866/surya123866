@@ -3,7 +3,10 @@
 surya123866/surya123866 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-👋 Hi there! I'm Surya Kommanapalli, a recent graduate with a strong passion for web development.
+<h1 align="center">Hi 👋, I'm Surya Kommanapallli</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+👋 I'm a recent graduate with a strong passion for web development.
 
 🚀 I'm currently learning and working on building web applications using ReactJS. I love the challenges of working with complex code and enjoy finding creative solutions to problems.
 
@@ -14,8 +17,6 @@ You can click the Preview link to take a look at your changes.
 📫 You can reach me via linkdin link in profile description. Let's build some great web applications together!
 
 
-<h1 align="center">Hi 👋, I'm Surya Kommanapallli</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surya123866&label=Profile%20views&color=0e75b6&style=flat" alt="surya123866" /> </p>
 
