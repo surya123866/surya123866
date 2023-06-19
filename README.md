@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surya123866&label=Profile%20views&color=0e75b6&style=flat" alt="surya123866" /> </p>
 
-[[<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surya123866" alt="surya123866" /></a> </p>](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub)]
+[![trophy](https://github-profile-trophy.vercel.app/?username=surya123866)][(https://github.com/ryo-ma/github-profile-trophy)](https://github-profile-trophy.vercel.app/?username=surya123866&theme=onedark)
 
 - 👨‍💻 All of my projects are available at [https://github.com/surya123866](https://github.com/surya123866)
 
@@ -34,7 +34,9 @@ You can click the Preview link to take a look at your changes.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/surya123866)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=surya123866)][(https://github.com/ryo-ma/github-profile-trophy)](https://github-profile-trophy.vercel.app/?username=surya123866&theme=onedark)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/surya123866)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surya123866)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surya123866&show_icons=true&locale=en" alt="surya123866" /></p>
 
