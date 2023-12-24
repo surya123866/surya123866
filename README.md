@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 🚀 I'm currently learning and working on building web applications using ReactJS. I love the challenges of working with complex code and enjoy finding creative solutions to problems.
 
-💻 I'm also familiar with HTML, CSS, and JavaScript, Python, NodeJs and I'm constantly learning new skills and tools to improve my development capabilities.
+💻 I'm also familiar with HTML, CSS, and JavaScript, Python, NodeJs, ReacJS, SQl, MongoDB and I'm constantly learning new skills and tools to improve my development capabilities.
 
 👨‍💻 I'm looking for opportunities to collaborate with other developers and contribute to open-source projects. Feel free to check out my GitHub profile to see some of my projects.
 
