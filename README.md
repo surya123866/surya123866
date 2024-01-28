@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Surya Kommanapallli</h1>
 <h3 align="left">A passionate frontend developer from India</h3>
 
-👋 I'm a recent graduate with a strong passion for web development.
+👋 I'm a Full-Stack web developer.
 
 🚀 I'm currently learning and working on building web applications using ReactJS. I love the challenges of working with complex code and enjoy finding creative solutions to problems.
 
